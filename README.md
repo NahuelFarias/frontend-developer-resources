@@ -3151,6 +3151,23 @@ Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid
 
 🔗 **🏳URL**: https://github.com/Fictizia
 
+---
+
+#### 👉📹📚 **Bootcamp realizado por midudev de Fullstackopen**
+
+Bootcamp realizado por @midudev, donde vas a realizar con él, el bootcamp de Fullstackopen desde el principio.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=wTpuKOhGfJE&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7
+
+---
+
+#### 👉📹📚 **Programando en vivo con Leónidas Esteban**
+
+Leónidas nos propone realizar junto a él distintos proyectos que te ayudaran a poner tus conociminetos
+de HTML5, CSS3 y JS a prueba.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=ScSHSI7TzRw&list=PLHsJ3-ff9dpFtMoPYrfLq0J8wpeX33zQS
+
 <br>
 
 ☝ [Volver al Indice](#indice)
